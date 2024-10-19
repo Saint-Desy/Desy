@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" LD01 LOUNGE BAG",
+        "price": 200,
+        "image": "image/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" LD02 LOUNGE BAG",
+        "price": 250,
+        "image": "image/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" LD03 LOUNGE BAG",
+        "price": 290,
+        "image": "image/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" LD04 LOUNGE BAG",
+        "price": 200,
+        "image": "image/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" LD05 LOUNGE BAG",
+        "price": 300,
+        "image": "image/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" LD06 LOUNGE BAG",
+        "price": 200,
+        "image": "image/6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" LD07 LOUNGE BAG",
+        "price": 200,
+        "image": "image/7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" LD08 LOUNGE BAG",
+        "price": 200,
+        "image": "image/8.jpg"
+    }
+
+]
